@@ -1,0 +1,13 @@
+# useful links
+- first and foremost - https://solana.com/developers
+  - this has almost everything you need inside
+- Anchor - https://github.com/project-serum/anchor and https://project-serum.github.io/anchor/tutorials/tutorial-0.html
+  - it's in the one above, but I'm still gonna put it here
+- example projects that are cool or useful
+  - https://github.com/solana-labs/solana-program-library
+  - https://github.com/metaplex-foundation/metaplex
+  - https://github.com/Synthetify/synthetify-protocol
+- most useful docs:
+  - https://spl.solana.com/token
+  - https://spl.solana.com/associated-token-account#finding-the-associated-token-account-address
+  - https://docs.solana.com/developing/programming-model/calling-between-programs#program-derived-addresses
